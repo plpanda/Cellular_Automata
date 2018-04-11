@@ -1,0 +1,284 @@
+Rule :  [0, 0, 0, 0]
+No of layers :  1
+Distinct count in layers:  [16, 1]
+Output vector:  [0]
+
+
+
+ Rule :  [128, 128, 128, 128]
+No of layers :  2
+Distinct count in layers:  [16, 6, 2]
+Output vector:  [ 0 15]
+
+
+
+ Rule :  [2, 2, 2, 2]
+No of layers :  1
+Distinct count in layers:  [16, 5]
+Output vector:  [0 1 2 4 8]
+
+
+
+ Rule :  [130, 130, 130, 130]
+No of layers :  1
+Distinct count in layers:  [16, 6]
+Output vector:  [ 0  1  2  4  8 15]
+
+
+
+ Rule :  [4, 4, 4, 4]
+No of layers :  1
+Distinct count in layers:  [16, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [132, 132, 132, 132]
+No of layers :  1
+Distinct count in layers:  [16, 8]
+Output vector:  [ 0  1  2  4  5  8 10 15]
+
+
+
+ Rule :  [8, 8, 8, 8]
+No of layers :  2
+Distinct count in layers:  [16, 5, 1]
+Output vector:  [0]
+
+
+
+ Rule :  [136, 136, 136, 136]
+No of layers :  3
+Distinct count in layers:  [16, 10, 6, 2]
+Output vector:  [ 0 15]
+
+
+
+ Rule :  [10, 10, 10, 10]
+No of layers :  1
+Distinct count in layers:  [16, 9]
+Output vector:  [ 0  1  2  3  4  6  8  9 12]
+
+
+
+ Rule :  [138, 138, 138, 138]
+No of layers :  1
+Distinct count in layers:  [16, 10]
+Output vector:  [ 0  1  2  3  4  6  8  9 12 15]
+
+
+
+ Rule :  [12, 12, 12, 12]
+No of layers :  1
+Distinct count in layers:  [16, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [140, 140, 140, 140]
+No of layers :  2
+Distinct count in layers:  [16, 12, 8]
+Output vector:  [ 0  1  2  4  5  8 10 15]
+
+
+
+ Rule :  [16, 16, 16, 16]
+No of layers :  1
+Distinct count in layers:  [16, 5]
+Output vector:  [0 1 2 4 8]
+
+
+
+ Rule :  [144, 144, 144, 144]
+No of layers :  1
+Distinct count in layers:  [16, 6]
+Output vector:  [ 0  1  2  4  8 15]
+
+
+
+ Rule :  [24, 24, 24, 24]
+No of layers :  2
+Distinct count in layers:  [16, 7, 5]
+Output vector:  [0 1 2 4 8]
+
+
+
+ Rule :  [152, 152, 152, 152]
+No of layers :  3
+Distinct count in layers:  [16, 12, 8, 6]
+Output vector:  [ 0  1  2  4  8 15]
+
+
+
+ Rule :  [32, 32, 32, 32]
+No of layers :  2
+Distinct count in layers:  [16, 7, 3]
+Output vector:  [ 0  5 10]
+
+
+
+ Rule :  [160, 160, 160, 160]
+No of layers :  1
+Distinct count in layers:  [16, 4]
+Output vector:  [ 0  5 10 15]
+
+
+
+ Rule :  [34, 34, 34, 34]
+No of layers :  1
+Distinct count in layers:  [16, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [162, 162, 162, 162]
+No of layers :  1
+Distinct count in layers:  [16, 8]
+Output vector:  [ 0  1  2  4  5  8 10 15]
+
+
+
+ Rule :  [40, 40, 40, 40]
+No of layers :  3
+Distinct count in layers:  [16, 11, 7, 3]
+Output vector:  [ 0  5 10]
+
+
+
+ Rule :  [168, 168, 168, 168]
+No of layers :  2
+Distinct count in layers:  [16, 12, 8]
+Output vector:  [ 0  5  7 10 11 13 14 15]
+
+
+
+ Rule :  [42, 42, 42, 42]
+No of layers :  1
+Distinct count in layers:  [16, 11]
+Output vector:  [ 0  1  2  3  4  5  6  8  9 10 12]
+
+
+
+ Rule :  [48, 48, 48, 48]
+No of layers :  1
+Distinct count in layers:  [16, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [176, 176, 176, 176]
+No of layers :  1
+Distinct count in layers:  [16, 8]
+Output vector:  [ 0  1  2  4  5  8 10 15]
+
+
+
+ Rule :  [56, 56, 56, 56]
+No of layers :  2
+Distinct count in layers:  [16, 11, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [64, 64, 64, 64]
+No of layers :  2
+Distinct count in layers:  [16, 5, 1]
+Output vector:  [0]
+
+
+
+ Rule :  [192, 192, 192, 192]
+No of layers :  3
+Distinct count in layers:  [16, 10, 6, 2]
+Output vector:  [ 0 15]
+
+
+
+ Rule :  [66, 66, 66, 66]
+No of layers :  2
+Distinct count in layers:  [16, 7, 5]
+Output vector:  [0 1 2 4 8]
+
+
+
+ Rule :  [194, 194, 194, 194]
+No of layers :  3
+Distinct count in layers:  [16, 12, 8, 6]
+Output vector:  [ 0  1  2  4  8 15]
+
+
+
+ Rule :  [68, 68, 68, 68]
+No of layers :  1
+Distinct count in layers:  [16, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [196, 196, 196, 196]
+No of layers :  2
+Distinct count in layers:  [16, 12, 8]
+Output vector:  [ 0  1  2  4  5  8 10 15]
+
+
+
+ Rule :  [72, 72, 72, 72]
+No of layers :  2
+Distinct count in layers:  [16, 7, 5]
+Output vector:  [ 0  3  6  9 12]
+
+
+
+ Rule :  [200, 200, 200, 200]
+No of layers :  1
+Distinct count in layers:  [16, 10]
+Output vector:  [ 0  3  6  7  9 11 12 13 14 15]
+
+
+
+ Rule :  [76, 76, 76, 76]
+No of layers :  1
+Distinct count in layers:  [16, 11]
+Output vector:  [ 0  1  2  3  4  5  6  8  9 10 12]
+
+
+
+ Rule :  [80, 80, 80, 80]
+No of layers :  1
+Distinct count in layers:  [16, 9]
+Output vector:  [ 0  1  2  3  4  6  8  9 12]
+
+
+
+ Rule :  [208, 208, 208, 208]
+No of layers :  1
+Distinct count in layers:  [16, 10]
+Output vector:  [ 0  1  2  3  4  6  8  9 12 15]
+
+
+
+ Rule :  [96, 96, 96, 96]
+No of layers :  3
+Distinct count in layers:  [16, 11, 7, 3]
+Output vector:  [ 0  5 10]
+
+
+
+ Rule :  [224, 224, 224, 224]
+No of layers :  2
+Distinct count in layers:  [16, 12, 8]
+Output vector:  [ 0  5  7 10 11 13 14 15]
+
+
+
+ Rule :  [98, 98, 98, 98]
+No of layers :  2
+Distinct count in layers:  [16, 11, 7]
+Output vector:  [ 0  1  2  4  5  8 10]
+
+
+
+ Rule :  [112, 112, 112, 112]
+No of layers :  1
+Distinct count in layers:  [16, 11]
+Output vector:  [ 0  1  2  3  4  5  6  8  9 10 12]
